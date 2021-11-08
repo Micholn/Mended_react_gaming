@@ -51,5 +51,4 @@
  - [x] [Github crash course by Traversy Media](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
  
 ## JavaScript Under The Hood
- - [x] [JavaScript: Understanding the Weird Parts - The First 3.5 Hours by Anthony Alicea](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts)                             
  
