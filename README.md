@@ -68,5 +68,3 @@
 ## Clean Code Practices
  - [x] [SOLID Principles every Developer Should Know](https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688)
  - [x] [Clean code by yanmcdermott (github) ](https://github.com/ryanmcdermott/clean-code-javascript)
- - [x] [Clean Code by beau cornes(video version of github article by yanmcdermott)](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkK24EaPurzMq0-kw5U9pJh)
- 
