@@ -98,6 +98,3 @@
  - [x] [The Hitchhiker's Guide to All Things Memory in Javascript by Safia Abdalla](https://www.youtube.com/watch?v=AeUCN2lPqL8&t=920s)
     #### Undertanding Objects And JavaScript Engine's Code Optimization Techniques
  - [x] [JavaScript Engines: The Good Parts™ - Mathias Bynens & Benedikt Meurer](https://www.youtube.com/watch?v=5nmpokoRaZI&t=1236s)
- - [x] [JavaScript engines - how do they even? by Franziska Hinkelmann](https://www.youtube.com/watch?v=p-iiEDtpy6I)
-
-
