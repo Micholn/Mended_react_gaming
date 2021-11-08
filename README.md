@@ -50,5 +50,3 @@
  - [x] [Git and GitHub for Poets by The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
  - [x] [Github crash course by Traversy Media](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
  
-## JavaScript Under The Hood
- 
