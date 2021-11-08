@@ -93,5 +93,3 @@
    #### Must watch talk to understand JavaScript Concepts
  - [x] [Rediscovering JavaScript by Venkat Subramaniam](https://www.youtube.com/watch?v=dxzBZpzzzo8)
     #### Thinking Recursively and Tail Call Optimization
- - [x] [Recursion, Iteration, and JavaScript: A Love Story - Anjana Vakil](https://www.youtube.com/watch?v=FmiQr4nfoPQ)
-
