@@ -100,6 +100,4 @@
  - [x] [JavaScript Engines: The Good Parts™ - Mathias Bynens & Benedikt Meurer](https://www.youtube.com/watch?v=5nmpokoRaZI&t=1236s)
  - [x] [JavaScript engines - how do they even? by Franziska Hinkelmann](https://www.youtube.com/watch?v=p-iiEDtpy6I)
 
-## TypeScript
- - [x] [TypeScript for Beginners by JavaBrains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTanfgsbnFzfWUhhAz3tIezU)
 
