@@ -92,4 +92,4 @@
  - [x] [Understanding asynchronous JavaScript and microtask queue by Shelley Vohr](https://youtu.be/SrNQS8J67zc)
    #### Must watch talk to understand JavaScript Concepts
  - [x] [Rediscovering JavaScript by Venkat Subramaniam](https://www.youtube.com/watch?v=dxzBZpzzzo8)
-    #### Thinking Recursively and Tail Call Optimization
+  
