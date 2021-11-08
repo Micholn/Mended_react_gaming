@@ -65,4 +65,3 @@
 ## Object Creation In JavaScript
  - [x] [Object Creation in JavaScript by Funfunfunctions](https://www.youtube.com/playlist?list=PL0zVEGEvSaeHBZFy6Q8731rcwk0Gtuxub)
  
-## Clean Code Practices
