@@ -85,5 +85,5 @@
  - [x] [Front-end-Developer-Interview-Questions(github)](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
  - [x] [JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
 
-## Must Watch Talks
+
 
