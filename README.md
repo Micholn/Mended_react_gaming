@@ -74,6 +74,4 @@
  - [x] [Design Patterns in Vanilla JavaScript by DevSage](https://www.youtube.com/playlist?list=PLjEBqWnjXGvZtvsys_GyExkBxvyJytT9H)
  
 ## Blockchain with Javascript
- - [x] [Building a blockchain with Javascript](https://www.youtube.com/playlist?list=PLzvRQMJ9HDiTqZmbtFisdXFxul5k0F-Q4)
-
 
