@@ -70,6 +70,3 @@
  - [x] [Clean code by yanmcdermott (github) ](https://github.com/ryanmcdermott/clean-code-javascript)
  - [x] [Clean Code by beau cornes(video version of github article by yanmcdermott)](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkK24EaPurzMq0-kw5U9pJh)
  
-## Javascript Design Patterns
-
- 
