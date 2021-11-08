@@ -88,4 +88,3 @@
 ## Must Watch Talks
 
  - [x] [Understanding the event loop and single threaded JavaScript by philip roberts](https://youtu.be/8aGhZQkoFbQ)
-   #### UnderStanding Asynchronous JavaScript and MicroTask Queue
