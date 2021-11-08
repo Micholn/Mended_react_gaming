@@ -103,5 +103,3 @@
 ## TypeScript
  - [x] [TypeScript for Beginners by JavaBrains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTanfgsbnFzfWUhhAz3tIezU)
 
-## TensorFlow JS - Machine Learning
- - [x] [Neural networks by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
