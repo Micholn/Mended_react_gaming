@@ -19,5 +19,3 @@
 - [x] [Check out Kevin Powell YouTube Channel for CSS Tricks](https://www.youtube.com/user/KepowOb)             
 
      🤑💵 Paid Course 💵🤑                
-
-- [x] [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/share/101WkwCUcdcV9WQnQ=/)            
