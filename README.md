@@ -33,4 +33,3 @@
 - [x] [Topics of JavaScript/ES6-ES8 - p5.js Tutorial by The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YgpA3Oht-7B4NBQwFVe3pr)
 - [x] [JavaScript ES6, ES7, ES8: Learn to Code on the Bleeding Edge (Full Course) by FreeCodeCamp](https://youtu.be/nZ1DMMsyVyI)
 - [x] [20+ Vannila JS Projects](https://www.youtube.com/playlist?list=PLjEBqWnjXGvbNIcb43GeVx8q8mpeUYe3X)
-- [x] [You Don't Know JS Yet by Kyle Simpsom(e-book)](https://github.com/getify/You-Dont-Know-JS)
