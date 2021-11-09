@@ -30,4 +30,3 @@
 - [x] [JavaScript DOM Manipulation by Brad Traversy](https://www.youtube.com/playlist?list=PLjEBqWnjXGvaieUGAESixHWNiE2u4eR5K)
 - [x] [Web Dev Concepts to Grasp(Feel free to skip and watch when supposed to use any of these)](https://www.youtube.com/playlist?list=PLjEBqWnjXGvb4ZvWLpHVmi-JwqcqFlufn)
 - [x] [Build 15 JavaScript Projects - Vanilla JavaScript Course by FreeCodeCamp](https://www.youtube.com/watch?v=3PHXvlpOkf4)
-- [x] [Topics of JavaScript/ES6-ES8 - p5.js Tutorial by The Coding Train]
