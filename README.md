@@ -28,4 +28,4 @@
 - [x] [JavaScript for Beginners by The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
 - [x] [JavaScript Course for Beginners 2020 - Learn JavaScript from Scratch! by Academind](https://youtu.be/2qDywOS7VAc)
 - [x] [JavaScript DOM Manipulation by Brad Traversy](https://www.youtube.com/playlist?list=PLjEBqWnjXGvaieUGAESixHWNiE2u4eR5K)
-- [x] [Web Dev Concepts to Grasp(Feel free to skip and watch when supposed to use any of these)](https://www.youtube.com/playlist?list=PLjEBqWnjXGvb4ZvWLpHVmi-JwqcqFlufn)
+
