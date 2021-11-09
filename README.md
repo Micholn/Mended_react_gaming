@@ -40,4 +40,4 @@
 
 ## Data Structures And Algorithms     
 
-   🤑💵 Paid Course 💵🤑             
+   🤑💵 Paid Course 💵🤑 
