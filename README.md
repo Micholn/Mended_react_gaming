@@ -21,6 +21,3 @@
      🤑💵 Paid Course 💵🤑                
 
 - [x] [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/share/101WkwCUcdcV9WQnQ=/)            
-
-
-## Kick Starters
