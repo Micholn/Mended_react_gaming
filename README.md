@@ -34,6 +34,3 @@
 - [x] [JavaScript ES6, ES7, ES8: Learn to Code on the Bleeding Edge (Full Course) by FreeCodeCamp](https://youtu.be/nZ1DMMsyVyI)
 - [x] [20+ Vannila JS Projects](https://www.youtube.com/playlist?list=PLjEBqWnjXGvbNIcb43GeVx8q8mpeUYe3X)
 - [x] [You Don't Know JS Yet by Kyle Simpsom(e-book)](https://github.com/getify/You-Dont-Know-JS)
-
-## 33-JS Concepts
-- [x] [33 Concepts Every JavaScript Developer 
