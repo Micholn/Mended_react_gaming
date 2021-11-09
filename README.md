@@ -16,5 +16,5 @@
 - [x] [flexbox cheatSheet (website)](http://flexbox.malven.co/)
 - [x] [CSS Grid in 30 mins by Traversy Media](https://www.youtube.com/watch?v=jV8B24rSN5o)
 - [x] [CSS Grid cheatsheet (website)](http://grid.malven.co/)
-- [x] [Check out Kevin Powell YouTube Channel for CSS Tricks](https://www.youtube.com/user/KepowOb)             
+           
              
